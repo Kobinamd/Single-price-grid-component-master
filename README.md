@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://single-price.pages.dev)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://)
+- Live Site URL: (https://single-price.pages.dev)
 
 ## My process
 
