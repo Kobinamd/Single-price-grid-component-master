@@ -55,7 +55,7 @@ I have just started learning javascript and will continue learning so that I can
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/KobinaMD)
+- Frontend Mentor - [@KobinaMD](https://www.frontendmentor.io/profile/KobinaMD)
 - Twitter - [@KobinaMDD](https://www.twitter.com/KobinaMDD)
 
 
