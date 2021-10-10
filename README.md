@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://)
-- Live Site URL: (https://single-price.pages.dev)
+- Solution URL: (https://www.frontendmentor.io/solutions/single-price-component-using-flexbox-3cwRFC49D)
+- Live Site URL: (https://single-price.pages.dev/)
 
 ## My process
 
