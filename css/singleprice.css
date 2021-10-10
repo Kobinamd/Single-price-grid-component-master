@@ -69,6 +69,7 @@ p {
 
 .top__section--header {
     color: hsl(179, 62%, 43%);
+    font-size: 1rem;
 }
 
 .top__section--subheader {
